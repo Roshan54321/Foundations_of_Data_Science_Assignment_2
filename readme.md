@@ -2,7 +2,7 @@
 # Bat vs. Rat: The Forage Files  
 ## Unit: **Foundations of Data Science**
 
-This repository contains the project work for **Foundations of Data Science Assessment 2**, focused on analyzing the interactions between bats and rats. The questions is **whether bats perceive rats as competitors for food or also as potential predators?**
+This repository contains the project work for **Foundations of Data Science Assessment**, focused on analyzing the interactions between bats and rats. The questions is **whether bats perceive rats as competitors for food or also as potential predators** and **whether the seasonal change impacts this pattern**.
 
 ---
 
